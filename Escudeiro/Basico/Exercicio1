@@ -1,1 +1,26 @@
 Vamos fazer uma viagem ao passado. O Java foi criado na década de 90. Vamos entender qual foi a motivação da criação da linguagem, seus principais conceitos e características e qual sua importância para o desenvolvimento de software. Faça, então, sua pesquisa e pontue seu entendimento sobre tudo isso.
+
+
+Java foi criado com o intuito de "independencia de plataforma", sendo o primeiro a utilizar decodificadores de TV interagindo com dispositivos portateis e outros produtos eletronicos de consumo, foi do mesmo jeito que doi iniciado em 1991, possuindo portabilidade para qualquer ambiente e do desenvolvimento para múltiplas plataformas, em ambientes de eletrônicos de consumo, desde então o Java vem liderando o mercado em termos de linguagem.
+
+Veja as principais características e vantagens da linguagem Java:
+
+- Suporte à orientação a objetos
+- Portabilidade
+- Segurança
+- Linguagem Simples
+- Alta Performance
+- Dinamismo
+- Interpretada (o compilador pode executar os bytecodes do Java diretamente em qualquer máquina)
+- Distribuído
+- Independente de plataforma
+- Tipada (detecta os tipos de variáveis quando declaradas)
+
+A independência de plataforma já fala por si, pois possibilita o programa ser executado em diferentes plataformas e sistemas operacionais, através de um emulador conhecido como a Máquina Virtual Java ou JVM (Java Virtual Machine) que ajuda rodar os sistemas baseados em Java. Pode-se também se denominar como uma máquina virtual baseada em software que é executada dentro dos aparelhos eletrônicos onde irá ler e executar os bytecodes do Java.
+
+
+Visto a necessidade e o crescimento no numeros de sistemas operacionas na decada de 90, Java teve o intuito de "globalizar" os softwares a esses SO's. Facilitar a criação e manutenção de novos softwares e essa caracteristica fez dele o mais popular na época. Na mesma decada a internet se popularizou com a criação dos Navegadores (Browsers) e a World Wide Web (WWW) e fez que o crescimento do uso de computadores pessoais atingisse não somente alguns usuarios mas se torna-se essencial para empresas e estudo.
+
+
+
+Disponivel em: <https://www.devmedia.com.br/java-historia-e-principais-conceitos/25178> Acesso em: 07/02/2022

@@ -4,3 +4,8 @@ No mundo Java existe uma sopa de letrinhas e siglas, mas algumas são fundamenta
 - JDK
 - JRE
 Pontue o que cada palavra significa, onde e quando usamos e qual a importância de cada uma delas:
+
+
+-JVM
+ Máquina virtual Java (em inglês: Java Virtual Machine, JVM) é um programa que carrega e executa os aplicativos Java, convertendo os bytecodes em código executável de máquina. A JVM é responsável pelo gerenciamento dos aplicativos, à medida que são executados.
+
